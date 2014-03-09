@@ -7,6 +7,14 @@ A wrapper for the global.window object so it can be supplied to other Big Block 
 
 [![Build Status](https://secure.travis-ci.org/RGBboy/big-block-window.png)](http://travis-ci.org/RGBboy/big-block-window)
 
+## Install
+
+With [npm](http://npmjs.org) do:
+
+```
+npm install big-block-window
+```
+
 ## License 
 
 (The MIT License)
